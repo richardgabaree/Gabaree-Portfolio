@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#bio-image {
+  width: 200px;
+  float: left; 
+  padding: 0px 10px 5px 0px;
+  
+}
+
+body {
+  background: url("https://st.depositphotos.com/1006009/2241/i/950/depositphotos_22417105-stock-photo-rustic-barn-wood-background.jpg) no-repeat center center fixed");
+  background-color: #d9dcd6;
+  font-family: "Spartan", sans-serif;
+  font-size: 20px;
+  height: 100%;
+  margin: 0;
+  text-align: center;
+  float: none;
+
+
+}
+nav {
+  background-color: #8dbfe2;
+  color: white;
+  font-weight: 100px;
+}
+
+li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+h2 {
+  padding: 20px;
+  font-family: "Spartan", sans-serif;
+  background-color: #2a607c;
+  font-size: 40px;
+  font-weight: 200px;
+  color: white;
+}
+
+p {
+  font-family: "Spartan", sans-serif;
+  font-size: 20px;
+  color: white;
+  text-align: left;
+  float: none;
+
+}
+
+form {
+  background-color: #9da09a;
+  border: 20px;
+}
+
+.bio {
+  background-color: #9da09a;
+  padding: 20px;
+}
+
+.container {
+  margin-top: 40px;
+}
+
+.figure {
+    max-width:100%;
+    height:auto;
+    width: auto;
+
+}
