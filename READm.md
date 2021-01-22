@@ -1,6 +1,6 @@
-# Title Homework 2 Potfolio
+# Gabaree Potfolio
 
-Created beginninh profile for UT Coding Class
+Create a profile to show work 
 
 ## Description
 
