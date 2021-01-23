@@ -62,7 +62,7 @@ p {
 }
 
 form {
-  background-color: #9da09a;
+  background-color: #9;
   border: 20px;
 }
 
@@ -80,4 +80,8 @@ form {
     height:auto;
     width: auto;
 
+}
+
+.project {
+  padding: 5%;
 }

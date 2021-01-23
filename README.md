@@ -1,6 +1,6 @@
-# Title Homework 2 Potfolio
+# Gabaree Potfolio
 
-Created beginninh profile for UT Coding Class
+Create a profile to show work 
 
 ## Description
 
@@ -24,8 +24,8 @@ The usage for this is to promote to potential employers and show my work.
 ### Contributor
 
 Richard Gabaree
-GitHub - https://github.com/richardgabaree
-Assignment - https://github.com/richardgabaree/SEOAssignment/tree/main/homework2
+GitHub - 
+Assignment - 
 
 
 
