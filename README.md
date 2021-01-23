@@ -24,8 +24,11 @@ The usage for this is to promote to potential employers and show my work.
 ### Contributor
 
 Richard Gabaree
-GitHub - 
-Assignment - 
+
+### Links to portfolio
+
+GitHub - https://github.com/richardgabaree/Gabaree-Portfolio
+Assignment - https://richardgabaree.github.io/Gabaree-Portfolio/
 
 
 
